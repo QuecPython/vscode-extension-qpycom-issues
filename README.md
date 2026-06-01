@@ -1,4 +1,4 @@
-# Quectel extension issues tracker
+# Quectel extension - qpycom issues tracker
 Welcome to the Issue Tracker repository. This repository is dedicated to tracking and managing issues related to Quectel issues tracker.
 
 ## Reporting Issues
